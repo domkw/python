@@ -2,5 +2,3 @@
 
 
 print("g");
-
-//kpllp
